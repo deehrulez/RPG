@@ -10,3 +10,4 @@ C:\Users\Chong\Desktop\[Study]\C# e ASP.net\C# RPG\SuperAdventure\SuperAdventure
 C:\Users\Chong\Desktop\[Study]\C# e ASP.net\C# RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
 C:\Users\Chong\Desktop\[Study]\C# e ASP.net\C# RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\Chong\Desktop\[Study]\C# e ASP.net\C# RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\Chong\Desktop\[Study]\C# e ASP.net\C# RPG\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
